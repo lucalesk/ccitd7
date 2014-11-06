@@ -1,0 +1,21 @@
+name = ccitd7
+description = Creative Commons Italy theme for drupal 7.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = style.css
+stylesheets[all][] = ccitd7.css
+
+
+regions[header] = Header
+regions[content] = Content
+regions[short_row_left] = Short Row Left
+regions[short_row_center] = Short Row Center
+regions[short_row_right] = Short Row Right
+regions[tall_row_left] = Tall Row Left
+regions[tall_row_center] = Tall Row Center
+regions[tall_row_right] = Tall Row Right
+regions[administrative] = Administrative
+regions[footer] = Footer
+
+

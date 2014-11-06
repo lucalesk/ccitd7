@@ -1,0 +1,191 @@
+div.container div.sixteen div.short div.tall  div.region-administrative div.block{
+	width: 280px;
+	float: left;
+	margin-left: 0;
+	display: inline;
+	margin-right: 10px;
+	-webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.22);
+	-moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.22);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.22);
+	margin-bottom: 20px;
+	background-color: #F5F5F5; 
+	padding: 0px;
+	overflow: hidden;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+
+div.container div.sixteen div.short div.tall div.region-administrative div.block h3.title {
+  color: #fff;
+  padding: 9px 14px;
+  line-height: 1;
+  -webkit-border-radius: 3px 3px 0 0;
+  -moz-border-radius: 3px 3px 0 0;
+  border-radius: 3px 3px 0 0;
+  border-bottom: 1px solid #EDEDEE;	
+  background-color: #393839;
+}
+
+
+a.pubblica-icon, a.trova-icon {
+	float: left;
+	width: 252px;
+	height: 181px;
+	font-size: 0px;
+	margin: 0;
+	padding: 0px;
+	border: 0 none;	
+	opacity:0.6;
+	filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+a.pubblica-icon:hover, a.trova-icon:hover {
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+a.pubblica-icon {
+	background: url("../ccitd7/img/pubblica.png") no-repeat 0 0; 	
+		
+}
+
+a.trova-icon {
+	background: url("../ccitd7/img/find.png") no-repeat 0 0; 	
+	
+}
+
+
+a.fb-icon, a.tw-icon, a.li-icon-1, a.li-icon-2, a.li-icon-3, a.li-icon-4{
+	float: left;
+	width: 126px;
+	height: 126px;
+	font-size: 0px;
+	margin: 0;
+	padding: 0px;
+	border: 0 none;	
+	opacity:0.6;
+	filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+a.fb-icon:hover, a.tw-icon:hover, a.li-icon-1:hover, a.li-icon-2:hover, a.li-icon-3:hover, a.li-icon-4:hover {
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+a.fb-icon{
+	background: url("../ccitd7/img/Facebook_Icon.png") no-repeat 0 0; 	
+}
+
+a.tw-icon{
+	background: url("../ccitd7/img/Twitter_Icon.png") no-repeat 0 0; 	
+}
+
+a.li-icon-1{
+	background: url("../ccitd7/img/Contact_Icon_1.png") no-repeat 0 0; 	
+}
+
+a.li-icon-2{
+	background: url("../ccitd7/img/Contact_Icon_2.png") no-repeat 0 0; 	
+}
+
+a.li-icon-3{
+	background: url("../ccitd7/img/Contact_Icon_3.png") no-repeat 0 0; 	
+}
+
+a.li-icon-4{
+	background: url("../ccitd7/img/Contact_Icon_4.png") no-repeat 0 0; 	
+}
+
+a.fb-icon-small, a.tw-icon-small{
+	float: left;
+	width: 32px;
+	height: 32px;
+	font-size: 0px;
+	margin: 0;
+	padding: 0px 6px 0px 0px;
+	border: 0 none;	
+}
+
+a.fb-icon-small{
+	background: url("../ccitd7/img/facebook.png") no-repeat 0 0; 	
+}
+
+a.tw-icon-small{
+	background: url("../ccitd7/img/twitter.png") no-repeat 0 0; 
+	margin-top: 2px;
+}
+
+
+div.region.region-footer div.content div.six.columns div.bucket p{
+	clear: both;
+	padding-top: 18px;
+}
+
+div.sixteen div.tall div.region-administrative div.block  div.test{
+	width: 280px;
+	display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+	margin-bottom: 20px;
+    
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.22);
+	    background-color: #393839;
+    border-radius: 6px;
+    overflow: hidden;
+    padding: 0;
+
+}
+
+
+div.sixteen div.tall div.region-administrative div.block h3.title {
+	border-bottom: 1px solid #EDEDEE;
+    border-radius: 3px 3px 0 0;
+    color: #FFFFFF;
+    line-height: 1;
+    padding: 9px 14px;
+}
+
+div.sixteen div.tall div.region-administrative div.block div.content {
+	background-clip: padding-box;
+    background-color: #F5F5F5;
+    border-radius: 0 0 3px 3px;
+    padding: 14px 14px 60px;
+    position: relative;
+}
+
+div.content div.field.field-name-body.field-type-text-with-summary.field-label-hidden div.field-items  img{
+	padding: 4px 10px 10px 2px;    
+}
+
+div.view-news div.view-content  div.views-field.views-field-field-slider-image div.field-content a img{
+	padding: 4px;
+	border: 1px solid #EDEDEE;
+	border-color: black;
+	margin: 4px;
+	float: left;
+}
+
+div.view-news div.view-content div.views-field.views-field-title{
+	clear: both;
+}
+
+div.view-news div.view-content  div.views-field.views-field-title h6{
+	margin-bottom: 8px;
+	padding-top: 18px;
+}
+
+div.content  div.submitted{
+	margin-bottom: 8px;	
+}
+
+div.content div.field.field-name-body.field-type-text-with-summary div.field-items  p{
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18px;
+    margin-bottom: 9px;
+}
+
+
